@@ -10,7 +10,6 @@ program homework
         read (60,*) mat(i,:)
         read (50,*) vec(i)
     end do
-
     do omega=1.0,1.8,0.01
         x=0.0d0
         k=0
