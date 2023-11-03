@@ -1,0 +1,1 @@
+\left.\left(\begin{array}{cccc}2&u_1&\cdots&0\\s_2&2&\ddots&\vdots\\\vdots&\ddots&\ddots&u_{n-2}\\0&\cdots&s_{n-1}&2\end{array}\right.\right)\left(\begin{array}{c}m_1\\m_2\\\vdots\\m_{n-1}\end{array}\right)=\left(\begin{array}{c}c_1\\c_2\\\vdots\\c_{n-1}\end{array}\right)
